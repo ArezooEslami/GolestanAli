@@ -11,7 +11,6 @@
 *   git clone https://github.com/AminKiani/GolestanAli/
 ```
 * [Mind Map](https://github.com/AminKiani/GolestanAli/blob/master/MindMap.swf)
-```
 
 * [HTML5](http://en.wikipedia.org/wiki/Html5)
 * [CSS3](https://developer.mozilla.org/en-US/docs/CSS/CSS_Reference)
