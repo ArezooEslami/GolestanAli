@@ -10,7 +10,7 @@
 ```
 *   git clone https://github.com/AminKiani/GolestanAli/
 ```
-* [Mind Map](https://github.com/AminKiani/GolestanAli/)
+* [Mind Map](https://github.com/AminKiani/GolestanAli/blob/master/MindMap.swf)
 ```
 
 * [HTML5](http://en.wikipedia.org/wiki/Html5)
