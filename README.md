@@ -1,6 +1,6 @@
 ##Golestan.e.Ali Charity
 ==============
-#Contributing
+###Contributing
 
 * Check our project's website and report any bugs or ideas in [issues](https://github.com/AminKiani/GolestanAli/issues/)
 
